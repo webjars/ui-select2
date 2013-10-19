@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ui-select2</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>ui-select2</name>
     <description>WebJar for ui-select2</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/ui-select2</url>
         <connection>scm:git:https://github.com/webjars/ui-select2.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ui-select2.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>ui-select2-0.0.2</tag>
     </scm>
     
     <dependencies>
